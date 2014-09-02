@@ -25,4 +25,4 @@ OK - Usar consultas parametrizadas para inserções e atualizações de dados.
 OK - O sistema deverá possuir um controle de login, com controle de sessões em TODAS as páginas que deverão acesso restrito ao usuário.
 OK - O sistema deverá disponibilizar para download dos dados dos filmes em XML e CSV.
 OK - As informações necessárias a conexão com o SGBD deverão estar em um arquivo XML.
-IN PROGRESS - Deverá existir alguma funcionalidade com AJAX..
+IN PROGRESS - Deverá existir alguma funcionalidade com AJAX.
