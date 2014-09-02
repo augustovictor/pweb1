@@ -37,4 +37,4 @@ Apenas usuários logados poderão:
 	
 	OK - As informações necessárias a conexão com o SGBD deverão estar em um arquivo XML.
 	
-	IN PROGRESS - Deverá existir alguma funcionalidade com AJAX.
+	OK - Deverá existir alguma funcionalidade com AJAX.
