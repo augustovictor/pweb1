@@ -16,14 +16,25 @@ Sobre o cadastro do usuário:
 
 Sobre o cadastro dos filmes:
 Apenas usuários logados poderão:
+	
 	OK - Cadastrar filmes;
+
 	OK - O usuário poderá enviar uma imagem do poster do filme.
+	
 	OK - Listar filmes cadastrados, exibindo seus dados e suas imagens;
+	
 	OK - Alterar os dados de algum filme;
+	
 	OK - Há duas possíveis formas para cadastrar um filme: preenchendo formulário e importando dados de um XML (submetido via upload).
+	
 	OK - Os dados dos filmes deverão ser validados com expressões regulares, antes de sua inserção no banco de dados.
+	
 	OK - Usar consultas parametrizadas para inserções e atualizações de dados.
+	
 	OK - O sistema deverá possuir um controle de login, com controle de sessões em TODAS as páginas que deverão acesso restrito ao usuário.
+	
 	OK - O sistema deverá disponibilizar para download dos dados dos filmes em XML e CSV.
+	
 	OK - As informações necessárias a conexão com o SGBD deverão estar em um arquivo XML.
+	
 	IN PROGRESS - Deverá existir alguma funcionalidade com AJAX.
